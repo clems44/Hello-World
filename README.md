@@ -4,6 +4,6 @@ another repository
 
 Hello everybody,
 
-une démo de git qui se passe bien
+une démo de git qui se passe bien  :)
 
 
